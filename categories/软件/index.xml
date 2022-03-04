@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 09:47:15 +0800</lastBuildDate><atom:link href="https://blog.kdisk.cn/categories/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Mar 2022 02:04:11 +0800</lastBuildDate><atom:link href="https://blog.kdisk.cn/categories/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WinRAR解压软件 v6.11b1已注册中文版本</title>
+      <link>https://blog.kdisk.cn/post/win-winrar/</link>
+      <pubDate>Sat, 05 Mar 2022 02:04:11 +0800</pubDate>
+      
+      <guid>https://blog.kdisk.cn/post/win-winrar/</guid>
+      <description>WinRAR解压软件 v6.11b1已注册中文版本  WinRAR是一款强大的压缩文件管理器，它提供了RAR和ZIP文件的完整支持，能解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO格式文件。WinRAR 从 4.20开始更好地利用了多处理器核心，不过为了加快压缩速度增加了内存占用。另外，RAR常规解压算法的速度稍有提高，恢复卷的创建和处理可以使用多个CPU核心来获得更高的处理速度。
+   集成 Real key，安装后即是注册版 * 无视文件锁定 (可编辑锁定的 RAR 文件, 方便修改注释、添加或删除文件!) * 汉化命令行版本 RAR.EXE 和 UnRAR.exe * 修改资源管理器右键查看 RAR 注释字体为宋体9号 * 感谢：D4llower (美化)、shuax、Black Hawk (技术支持) * 其它方面……自己试吧……* 以英文版做为母版 + 周明波版官方简体中文升级, 并做了部分修改   下载地址： 点击下载</description>
+    </item>
+    
     <item>
       <title>Android版酷我音乐</title>
       <link>https://blog.kdisk.cn/post/android-%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90/</link>
@@ -33,16 +43,6 @@
       <guid>https://blog.kdisk.cn/post/win-%E4%B8%87%E5%85%B4%E5%85%A8%E8%83%BD%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%99%A8/</guid>
       <description>万兴全能格式转换器  万兴全能格式转换器，又叫万兴优转，国产全能音视频格式转换解决方案。具有音视频格式转换、合并视频、压缩视频、录制视频、下载视频、DVD刻录等功能。Wondershare UniConverter Ultimate，以超快的转换速度及强大的功能在国外名声大噪，转换速度是市面同类产品的30倍，操作简便，支持158种视频格式无损转换，批量转换高清视频不会丢关键帧，集网络视频下载，投屏录屏，及DVD刻录等多功能于一身。
  下载地址： windows下载 mac下载</description>
-    </item>
-    
-    <item>
-      <title>WinRAR解压软件 v6.11b1已注册中文版本</title>
-      <link>https://blog.kdisk.cn/post/win-winrar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.kdisk.cn/post/win-winrar/</guid>
-      <description>WinRAR解压软件 v6.11b1已注册中文版本  WinRAR是一款强大的压缩文件管理器，它提供了RAR和ZIP文件的完整支持，能解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO格式文件。WinRAR 从 4.20开始更好地利用了多处理器核心，不过为了加快压缩速度增加了内存占用。另外，RAR常规解压算法的速度稍有提高，恢复卷的创建和处理可以使用多个CPU核心来获得更高的处理速度。
-   集成 Real key，安装后即是注册版 * 无视文件锁定 (可编辑锁定的 RAR 文件, 方便修改注释、添加或删除文件!) * 汉化命令行版本 RAR.EXE 和 UnRAR.exe * 修改资源管理器右键查看 RAR 注释字体为宋体9号 * 感谢：D4llower (美化)、shuax、Black Hawk (技术支持) * 其它方面……自己试吧……* 以英文版做为母版 + 周明波版官方简体中文升级, 并做了部分修改   下载地址： 点击下载</description>
     </item>
     
   </channel>
