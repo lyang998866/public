@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on YANL</title>
+    <link>https://blog.kdisk.cn/categories/</link>
+    <description>Recent content in Categories on YANL</description>
+    <image>
+      <url>https://blog.kdisk.cn/papermod-cover.png</url>
+      <link>https://blog.kdisk.cn/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Feb 2022 09:47:15 +0800</lastBuildDate><atom:link href="https://blog.kdisk.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软件</title>
+      <link>https://blog.kdisk.cn/categories/%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Sat, 19 Feb 2022 09:47:15 +0800</pubDate>
+      
+      <guid>https://blog.kdisk.cn/categories/%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电视剧</title>
+      <link>https://blog.kdisk.cn/categories/%E7%94%B5%E8%A7%86%E5%89%A7/</link>
+      <pubDate>Mon, 20 Dec 2021 15:01:09 +0800</pubDate>
+      
+      <guid>https://blog.kdisk.cn/categories/%E7%94%B5%E8%A7%86%E5%89%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电影</title>
+      <link>https://blog.kdisk.cn/categories/%E7%94%B5%E5%BD%B1/</link>
+      <pubDate>Sun, 19 Dec 2021 15:01:09 +0800</pubDate>
+      
+      <guid>https://blog.kdisk.cn/categories/%E7%94%B5%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hug1</title>
+      <link>https://blog.kdisk.cn/categories/hug1/</link>
+      <pubDate>Thu, 16 Dec 2021 04:07:09 +0800</pubDate>
+      
+      <guid>https://blog.kdisk.cn/categories/hug1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
