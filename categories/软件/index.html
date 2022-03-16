@@ -234,16 +234,28 @@
 </article>
     </main>
     
+
+
 <footer class="footer">
 
+<span>本站运行时间:</span>
+<script language = "JavaScript"type = "text/javascript" >
+    
+    var urodz = new Date("11/18/2021");
+    var now = new Date();
+    var ile = now.getTime() - urodz.getTime();
+    var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
+    document.write(dni+"天");
+</script>&nbsp;&nbsp;
             <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+            <span id="busuanzi_container_site_pv">本站访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<br></br>
     <span>&copy; 2022 <a href="https://blog.kdisk.cn/">YANL</a></span>
     <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+        Powered by Hugo & PaperMod   
     </span>
+
+
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
