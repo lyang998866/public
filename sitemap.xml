@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.kdisk.cn/tags/2022%E7%94%B5%E5%BD%B1%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2022-03-15T01:08:44+08:00</lastmod>
-  </url><url>
     <loc>https://blog.kdisk.cn/categories/</loc>
-    <lastmod>2022-03-15T01:08:44+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/series/hug3/</loc>
-    <lastmod>2022-03-15T01:08:44+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/post/</loc>
-    <lastmod>2022-03-15T01:08:44+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/series/</loc>
-    <lastmod>2022-03-15T01:08:44+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/tags/</loc>
-    <lastmod>2022-03-15T01:08:44+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/post/win-wps/</loc>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/</loc>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/tags/2022%E7%94%B5%E5%BD%B1%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2022-03-15T01:08:44+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/categories/%E7%94%B5%E5%BD%B1/</loc>
@@ -39,12 +48,6 @@
     <lastmod>2022-03-14T01:03:15+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/post/win-360%E9%A9%B1%E5%8A%A8/</loc>
-    <lastmod>2022-03-10T21:39:42+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.kdisk.cn/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2022-03-10T21:39:42+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.kdisk.cn/categories/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-03-10T21:39:42+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/post/win-kms/</loc>
