@@ -9,7 +9,7 @@
       <link>https://blog.kdisk.cn/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 16 Mar 2022 17:44:34 +0800</lastBuildDate><atom:link href="https://blog.kdisk.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WPS2019ProPlus</title>
@@ -39,19 +39,9 @@
       <pubDate>Mon, 14 Mar 2022 01:03:15 +0800</pubDate>
       
       <guid>https://blog.kdisk.cn/post/win10%E9%87%8D%E8%A3%85/</guid>
-      <description>零基础安装纯净的原版Windows 10系统 目录 一、准备工作
-1.准备一个u盘8g以上
-2.下载软件
-二、系统安装
-1. 原系统直装
-2. U盘安装
-三、后续工作
-1. 装驱动
-2.激活系统
-​
- 对于大多数用户来说，一重启二重装，是解决电脑问题最简单的两个办法。
- 本文是一篇零基础详细的系统安装教程。
-一、准备工作  操作系统：Windows 10
+      <description>零基础安装纯净的原版Windows 10系统  对于大多数用户来说，一重启二重装，是解决电脑问题最简单的两个办法。
+本文是一篇零基础详细的系统安装教程。
+ 一、准备工作  操作系统：Windows 10
 安装工具：U盘、官方程序直接安装
 如果您是全新的硬盘、全新的主板，需要使用U盘安装，
 如果是在原系统重装，则只需要下载官方安装工具MediaCreationTool即可。
@@ -77,7 +67,9 @@ BIOS设置有中文界面也有英文界面，中文就在“启动”选项中�
 三、后续工作 1.装驱动 Windows 10系统装好以后可以自动适配网卡驱动，所以开机就能正常联网。使用这款软件安装过的Windows 10系统无需更新补丁，可直接使用。如果对显卡、声卡或主板等硬件有要求，或者电脑连接了打印机等设备，可以下载安装一个驱动精灵类自动安装硬件所需的驱动。
 推荐下载（之前发过的绿色去广告版的360驱动大师）如担心安全问题也可自行百度下载
 打开软件后点击驱动安装，按推荐安装即可。
-2.激活系统 装完系统，相比大家最关心的就是系统的激活问题。可以使用此工具进行激活</description>
+2.激活系统 装完系统，相比大家最关心的就是系统的激活问题。可以使用此工具进行激活
+点击下载
+此工具可激活windows与office点击，打开软件后点击开始，稍等片刻即可激活成功</description>
     </item>
     
     <item>
@@ -162,6 +154,24 @@ BIOS设置有中文界面也有英文界面，中文就在“启动”选项中�
       <guid>https://blog.kdisk.cn/post/movie-%E6%AF%92%E6%B6%B22/</guid>
       <description>毒液2 Venom: Let There Be Carnage (2021)  电影讲述了外星共生体“毒液”与宿主埃迪（汤姆·哈迪 饰）这对“最佳拍档”遇上致命反派共生体“卡内奇”（伍迪·哈里森 饰），超级英雄和邪恶反派的宿命之战即将开始。
  您的浏览器不支持 HTML5 video 标签。</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://blog.kdisk.cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.kdisk.cn/about/</guid>
+      <description>about</description>
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>https://blog.kdisk.cn/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.kdisk.cn/links/</guid>
+      <description>links</description>
     </item>
     
     

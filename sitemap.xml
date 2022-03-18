@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.kdisk.cn/categories/</loc>
-    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
-  </url><url>
     <loc>https://blog.kdisk.cn/series/hug3/</loc>
-    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.kdisk.cn/post/</loc>
     <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/series/</loc>
@@ -21,6 +15,12 @@
     <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/</loc>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/categories/</loc>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/post/</loc>
     <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
@@ -39,13 +39,13 @@
     <lastmod>2022-03-15T01:08:44+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/tags/pc%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-03-14T01:03:15+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-03-14T01:03:15+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/post/win10%E9%87%8D%E8%A3%85/</loc>
-    <lastmod>2022-03-14T01:03:15+08:00</lastmod>
+    <lastmod>2022-03-16T17:44:34+08:00</lastmod>
   </url><url>
     <loc>https://blog.kdisk.cn/post/win-360%E9%A9%B1%E5%8A%A8/</loc>
     <lastmod>2022-03-10T21:39:42+08:00</lastmod>
@@ -82,6 +82,10 @@
   </url><url>
     <loc>https://blog.kdisk.cn/post/movie-%E6%AF%92%E6%B6%B22/</loc>
     <lastmod>2021-12-19T10:07:09+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kdisk.cn/about/</loc>
+  </url><url>
+    <loc>https://blog.kdisk.cn/links/</loc>
   </url><url>
     <loc>https://blog.kdisk.cn/archives/</loc>
   </url><url>
