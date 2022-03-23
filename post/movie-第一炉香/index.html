@@ -266,9 +266,17 @@
 
 
 <footer class="footer">
-<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1281008785'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1281008785%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
-
-
+<span>本站运行时间:</span>
+<script language = "JavaScript"type = "text/javascript" >
+    
+    var urodz = new Date("11/18/2021");
+    var now = new Date();
+    var ile = now.getTime() - urodz.getTime();
+    var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
+    document.write(dni+"天");
+</script>&nbsp;&nbsp;
+            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 
 
@@ -277,7 +285,7 @@
     <span>
         Powered by Hugo & PaperMod   
     </span>
-
+	<script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1281008785&web_id=1281008785"></script>
 
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
